@@ -1,1 +1,1 @@
-elementia
+simple LSTM forecasting
